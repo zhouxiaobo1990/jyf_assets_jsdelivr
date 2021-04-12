@@ -21,7 +21,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":26,"h":50},
 			"sourceSize": {"w":26,"h":50}
 		},
-		"battle_map_22_14.png":
+		"battle_map_22_15.png":
 		{
 			"frame": {"x":52,"y":0,"w":23,"h":49},
 			"rotated": false,
@@ -29,7 +29,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":23,"h":49},
 			"sourceSize": {"w":23,"h":49}
 		},
-		"battle_map_22_15.png":
+		"battle_map_22_14.png":
 		{
 			"frame": {"x":75,"y":0,"w":23,"h":49},
 			"rotated": false,
