@@ -213,7 +213,7 @@
 			"spriteSourceSize": {"x":47,"y":1,"w":58,"h":56},
 			"sourceSize": {"w":150,"h":150}
 		},
-		"eft_22_28.png":
+		"eft_22_0.png":
 		{
 			"frame": {"x":479,"y":193,"w":1,"h":1},
 			"rotated": false,
@@ -221,7 +221,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
 			"sourceSize": {"w":150,"h":150}
 		},
-		"eft_22_0.png":
+		"eft_22_21.png":
 		{
 			"frame": {"x":479,"y":194,"w":1,"h":1},
 			"rotated": false,
@@ -229,7 +229,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
 			"sourceSize": {"w":150,"h":150}
 		},
-		"eft_22_21.png":
+		"eft_22_28.png":
 		{
 			"frame": {"x":479,"y":195,"w":1,"h":1},
 			"rotated": false,
