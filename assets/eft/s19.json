@@ -45,20 +45,20 @@
 			"spriteSourceSize": {"x":27,"y":8,"w":19,"h":112},
 			"sourceSize": {"w":49,"h":124}
 		},
-		"eft_19_6.png":
+		"eft_19_7.png":
 		{
 			"frame": {"x":119,"y":0,"w":27,"h":15},
 			"rotated": false,
 			"trimmed": true,
-			"spriteSourceSize": {"x":17,"y":105,"w":27,"h":15},
+			"spriteSourceSize": {"x":0,"y":105,"w":27,"h":15},
 			"sourceSize": {"w":49,"h":124}
 		},
-		"eft_19_7.png":
+		"eft_19_6.png":
 		{
 			"frame": {"x":119,"y":15,"w":27,"h":15},
 			"rotated": false,
 			"trimmed": true,
-			"spriteSourceSize": {"x":0,"y":105,"w":27,"h":15},
+			"spriteSourceSize": {"x":17,"y":105,"w":27,"h":15},
 			"sourceSize": {"w":49,"h":124}
 		},
 		"eft_19_8.png":
