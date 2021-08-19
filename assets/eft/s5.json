@@ -13,7 +13,7 @@
 			"spriteSourceSize": {"x":7,"y":10,"w":89,"h":108},
 			"sourceSize": {"w":103,"h":118}
 		},
-		"eft_5_8.png":
+		"eft_5_7.png":
 		{
 			"frame": {"x":89,"y":0,"w":90,"h":107},
 			"rotated": false,
@@ -21,7 +21,7 @@
 			"spriteSourceSize": {"x":7,"y":10,"w":90,"h":107},
 			"sourceSize": {"w":103,"h":118}
 		},
-		"eft_5_7.png":
+		"eft_5_8.png":
 		{
 			"frame": {"x":179,"y":0,"w":90,"h":107},
 			"rotated": false,
