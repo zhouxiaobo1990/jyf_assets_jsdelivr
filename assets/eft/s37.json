@@ -5,7 +5,7 @@
 		"scale": "1"
 	},
 	"frames": {
-		"eft_37_3.png":
+		"eft_37_2.png":
 		{
 			"frame": {"x":0,"y":0,"w":13,"h":165},
 			"rotated": false,
@@ -13,7 +13,7 @@
 			"spriteSourceSize": {"x":1,"y":0,"w":13,"h":165},
 			"sourceSize": {"w":15,"h":169}
 		},
-		"eft_37_5.png":
+		"eft_37_3.png":
 		{
 			"frame": {"x":13,"y":0,"w":13,"h":165},
 			"rotated": false,
@@ -21,7 +21,7 @@
 			"spriteSourceSize": {"x":1,"y":0,"w":13,"h":165},
 			"sourceSize": {"w":15,"h":169}
 		},
-		"eft_37_2.png":
+		"eft_37_5.png":
 		{
 			"frame": {"x":26,"y":0,"w":13,"h":165},
 			"rotated": false,
@@ -29,7 +29,7 @@
 			"spriteSourceSize": {"x":1,"y":0,"w":13,"h":165},
 			"sourceSize": {"w":15,"h":169}
 		},
-		"eft_37_6.png":
+		"eft_37_7.png":
 		{
 			"frame": {"x":39,"y":0,"w":11,"h":165},
 			"rotated": false,
@@ -37,7 +37,7 @@
 			"spriteSourceSize": {"x":2,"y":0,"w":11,"h":165},
 			"sourceSize": {"w":15,"h":169}
 		},
-		"eft_37_7.png":
+		"eft_37_6.png":
 		{
 			"frame": {"x":50,"y":0,"w":11,"h":165},
 			"rotated": false,

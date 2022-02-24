@@ -5,7 +5,7 @@
 		"scale": "1"
 	},
 	"frames": {
-		"eft_111_2.png":
+		"eft_111_1.png":
 		{
 			"frame": {"x":0,"y":0,"w":151,"h":152},
 			"rotated": false,
@@ -13,7 +13,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":151,"h":152},
 			"sourceSize": {"w":151,"h":152}
 		},
-		"eft_111_1.png":
+		"eft_111_2.png":
 		{
 			"frame": {"x":151,"y":0,"w":151,"h":152},
 			"rotated": false,

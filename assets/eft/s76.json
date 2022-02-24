@@ -21,7 +21,7 @@
 			"spriteSourceSize": {"x":1,"y":0,"w":78,"h":199},
 			"sourceSize": {"w":80,"h":200}
 		},
-		"eft_76_19.png":
+		"eft_76_11.png":
 		{
 			"frame": {"x":158,"y":0,"w":77,"h":199},
 			"rotated": false,
@@ -29,73 +29,33 @@
 			"spriteSourceSize": {"x":1,"y":0,"w":77,"h":199},
 			"sourceSize": {"w":80,"h":200}
 		},
-		"eft_76_8.png":
+		"eft_76_15.png":
 		{
 			"frame": {"x":235,"y":0,"w":77,"h":199},
 			"rotated": false,
 			"trimmed": true,
-			"spriteSourceSize": {"x":0,"y":0,"w":77,"h":199},
-			"sourceSize": {"w":80,"h":200}
-		},
-		"eft_76_9.png":
-		{
-			"frame": {"x":312,"y":0,"w":77,"h":199},
-			"rotated": false,
-			"trimmed": true,
 			"spriteSourceSize": {"x":1,"y":0,"w":77,"h":199},
-			"sourceSize": {"w":80,"h":200}
-		},
-		"eft_76_17.png":
-		{
-			"frame": {"x":389,"y":0,"w":77,"h":199},
-			"rotated": false,
-			"trimmed": true,
-			"spriteSourceSize": {"x":1,"y":0,"w":77,"h":199},
-			"sourceSize": {"w":80,"h":200}
-		},
-		"eft_76_11.png":
-		{
-			"frame": {"x":0,"y":199,"w":77,"h":199},
-			"rotated": false,
-			"trimmed": true,
-			"spriteSourceSize": {"x":1,"y":0,"w":77,"h":199},
-			"sourceSize": {"w":80,"h":200}
-		},
-		"eft_76_16.png":
-		{
-			"frame": {"x":77,"y":199,"w":77,"h":199},
-			"rotated": false,
-			"trimmed": true,
-			"spriteSourceSize": {"x":0,"y":0,"w":77,"h":199},
-			"sourceSize": {"w":80,"h":200}
-		},
-		"eft_76_7.png":
-		{
-			"frame": {"x":154,"y":199,"w":77,"h":199},
-			"rotated": false,
-			"trimmed": true,
-			"spriteSourceSize": {"x":1,"y":0,"w":77,"h":199},
-			"sourceSize": {"w":80,"h":200}
-		},
-		"eft_76_18.png":
-		{
-			"frame": {"x":231,"y":199,"w":77,"h":199},
-			"rotated": false,
-			"trimmed": true,
-			"spriteSourceSize": {"x":0,"y":0,"w":77,"h":199},
-			"sourceSize": {"w":80,"h":200}
-		},
-		"eft_76_20.png":
-		{
-			"frame": {"x":308,"y":199,"w":77,"h":199},
-			"rotated": false,
-			"trimmed": true,
-			"spriteSourceSize": {"x":0,"y":0,"w":77,"h":199},
 			"sourceSize": {"w":80,"h":200}
 		},
 		"eft_76_10.png":
 		{
-			"frame": {"x":385,"y":199,"w":77,"h":199},
+			"frame": {"x":312,"y":0,"w":77,"h":199},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":0,"y":0,"w":77,"h":199},
+			"sourceSize": {"w":80,"h":200}
+		},
+		"eft_76_16.png":
+		{
+			"frame": {"x":389,"y":0,"w":77,"h":199},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":0,"y":0,"w":77,"h":199},
+			"sourceSize": {"w":80,"h":200}
+		},
+		"eft_76_18.png":
+		{
+			"frame": {"x":0,"y":199,"w":77,"h":199},
 			"rotated": false,
 			"trimmed": true,
 			"spriteSourceSize": {"x":0,"y":0,"w":77,"h":199},
@@ -103,18 +63,58 @@
 		},
 		"eft_76_14.png":
 		{
-			"frame": {"x":466,"y":0,"w":77,"h":199},
+			"frame": {"x":77,"y":199,"w":77,"h":199},
 			"rotated": false,
 			"trimmed": true,
 			"spriteSourceSize": {"x":0,"y":0,"w":77,"h":199},
 			"sourceSize": {"w":80,"h":200}
 		},
-		"eft_76_15.png":
+		"eft_76_8.png":
+		{
+			"frame": {"x":154,"y":199,"w":77,"h":199},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":0,"y":0,"w":77,"h":199},
+			"sourceSize": {"w":80,"h":200}
+		},
+		"eft_76_17.png":
+		{
+			"frame": {"x":231,"y":199,"w":77,"h":199},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":1,"y":0,"w":77,"h":199},
+			"sourceSize": {"w":80,"h":200}
+		},
+		"eft_76_7.png":
+		{
+			"frame": {"x":308,"y":199,"w":77,"h":199},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":1,"y":0,"w":77,"h":199},
+			"sourceSize": {"w":80,"h":200}
+		},
+		"eft_76_9.png":
+		{
+			"frame": {"x":385,"y":199,"w":77,"h":199},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":1,"y":0,"w":77,"h":199},
+			"sourceSize": {"w":80,"h":200}
+		},
+		"eft_76_19.png":
+		{
+			"frame": {"x":466,"y":0,"w":77,"h":199},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":1,"y":0,"w":77,"h":199},
+			"sourceSize": {"w":80,"h":200}
+		},
+		"eft_76_20.png":
 		{
 			"frame": {"x":466,"y":199,"w":77,"h":199},
 			"rotated": false,
 			"trimmed": true,
-			"spriteSourceSize": {"x":1,"y":0,"w":77,"h":199},
+			"spriteSourceSize": {"x":0,"y":0,"w":77,"h":199},
 			"sourceSize": {"w":80,"h":200}
 		},
 		"eft_76_6.png":

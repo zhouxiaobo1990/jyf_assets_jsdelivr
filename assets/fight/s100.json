@@ -5,36 +5,36 @@
 		"scale": "1"
 	},
 	"frames": {
-		"fight_100_7.png":
-		{
-			"frame": {"x":0,"y":0,"w":73,"h":70},
-			"rotated": false,
-			"trimmed": true,
-			"spriteSourceSize": {"x":53,"y":0,"w":73,"h":70},
-			"sourceSize": {"w":126,"h":71}
-		},
 		"fight_100_25.png":
 		{
-			"frame": {"x":73,"y":0,"w":73,"h":70},
+			"frame": {"x":0,"y":0,"w":73,"h":70},
 			"rotated": false,
 			"trimmed": true,
 			"spriteSourceSize": {"x":0,"y":0,"w":73,"h":70},
 			"sourceSize": {"w":126,"h":71}
 		},
-		"fight_100_34.png":
+		"fight_100_7.png":
 		{
-			"frame": {"x":0,"y":70,"w":73,"h":53},
+			"frame": {"x":73,"y":0,"w":73,"h":70},
 			"rotated": false,
 			"trimmed": true,
-			"spriteSourceSize": {"x":2,"y":18,"w":73,"h":53},
+			"spriteSourceSize": {"x":53,"y":0,"w":73,"h":70},
 			"sourceSize": {"w":126,"h":71}
 		},
 		"fight_100_16.png":
 		{
-			"frame": {"x":73,"y":70,"w":73,"h":53},
+			"frame": {"x":0,"y":70,"w":73,"h":53},
 			"rotated": false,
 			"trimmed": true,
 			"spriteSourceSize": {"x":51,"y":18,"w":73,"h":53},
+			"sourceSize": {"w":126,"h":71}
+		},
+		"fight_100_34.png":
+		{
+			"frame": {"x":73,"y":70,"w":73,"h":53},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":2,"y":18,"w":73,"h":53},
 			"sourceSize": {"w":126,"h":71}
 		},
 		"fight_100_24.png":
@@ -109,20 +109,20 @@
 			"spriteSourceSize": {"x":51,"y":16,"w":38,"h":54},
 			"sourceSize": {"w":126,"h":71}
 		},
-		"fight_100_21.png":
+		"fight_100_1.png":
 		{
 			"frame": {"x":77,"y":189,"w":38,"h":54},
 			"rotated": false,
 			"trimmed": true,
-			"spriteSourceSize": {"x":37,"y":16,"w":38,"h":54},
+			"spriteSourceSize": {"x":51,"y":16,"w":38,"h":54},
 			"sourceSize": {"w":126,"h":71}
 		},
-		"fight_100_1.png":
+		"fight_100_21.png":
 		{
 			"frame": {"x":115,"y":189,"w":38,"h":54},
 			"rotated": false,
 			"trimmed": true,
-			"spriteSourceSize": {"x":51,"y":16,"w":38,"h":54},
+			"spriteSourceSize": {"x":37,"y":16,"w":38,"h":54},
 			"sourceSize": {"w":126,"h":71}
 		},
 		"fight_100_19.png":
@@ -149,36 +149,36 @@
 			"spriteSourceSize": {"x":37,"y":16,"w":36,"h":54},
 			"sourceSize": {"w":126,"h":71}
 		},
-		"fight_100_18.png":
-		{
-			"frame": {"x":265,"y":0,"w":25,"h":54},
-			"rotated": false,
-			"trimmed": true,
-			"spriteSourceSize": {"x":50,"y":16,"w":25,"h":54},
-			"sourceSize": {"w":126,"h":71}
-		},
 		"fight_100_0.png":
 		{
-			"frame": {"x":265,"y":54,"w":25,"h":54},
+			"frame": {"x":265,"y":0,"w":25,"h":54},
 			"rotated": false,
 			"trimmed": true,
 			"spriteSourceSize": {"x":51,"y":16,"w":25,"h":54},
 			"sourceSize": {"w":126,"h":71}
 		},
-		"fight_100_8.png":
+		"fight_100_18.png":
+		{
+			"frame": {"x":265,"y":54,"w":25,"h":54},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":50,"y":16,"w":25,"h":54},
+			"sourceSize": {"w":126,"h":71}
+		},
+		"fight_100_14.png":
 		{
 			"frame": {"x":130,"y":123,"w":52,"h":53},
 			"rotated": false,
 			"trimmed": true,
-			"spriteSourceSize": {"x":53,"y":17,"w":52,"h":53},
+			"spriteSourceSize": {"x":51,"y":18,"w":52,"h":53},
 			"sourceSize": {"w":126,"h":71}
 		},
-		"fight_100_32.png":
+		"fight_100_17.png":
 		{
 			"frame": {"x":290,"y":0,"w":52,"h":53},
 			"rotated": false,
 			"trimmed": true,
-			"spriteSourceSize": {"x":23,"y":18,"w":52,"h":53},
+			"spriteSourceSize": {"x":51,"y":18,"w":52,"h":53},
 			"sourceSize": {"w":126,"h":71}
 		},
 		"fight_100_35.png":
@@ -189,52 +189,52 @@
 			"spriteSourceSize": {"x":23,"y":18,"w":52,"h":53},
 			"sourceSize": {"w":126,"h":71}
 		},
-		"fight_100_14.png":
-		{
-			"frame": {"x":290,"y":106,"w":52,"h":53},
-			"rotated": false,
-			"trimmed": true,
-			"spriteSourceSize": {"x":51,"y":18,"w":52,"h":53},
-			"sourceSize": {"w":126,"h":71}
-		},
-		"fight_100_17.png":
-		{
-			"frame": {"x":290,"y":159,"w":52,"h":53},
-			"rotated": false,
-			"trimmed": true,
-			"spriteSourceSize": {"x":51,"y":18,"w":52,"h":53},
-			"sourceSize": {"w":126,"h":71}
-		},
 		"fight_100_26.png":
 		{
-			"frame": {"x":0,"y":243,"w":52,"h":53},
+			"frame": {"x":290,"y":106,"w":52,"h":53},
 			"rotated": false,
 			"trimmed": true,
 			"spriteSourceSize": {"x":21,"y":17,"w":52,"h":53},
 			"sourceSize": {"w":126,"h":71}
 		},
-		"fight_100_11.png":
+		"fight_100_32.png":
 		{
-			"frame": {"x":52,"y":243,"w":37,"h":53},
+			"frame": {"x":290,"y":159,"w":52,"h":53},
 			"rotated": false,
 			"trimmed": true,
-			"spriteSourceSize": {"x":49,"y":16,"w":37,"h":53},
+			"spriteSourceSize": {"x":23,"y":18,"w":52,"h":53},
+			"sourceSize": {"w":126,"h":71}
+		},
+		"fight_100_8.png":
+		{
+			"frame": {"x":0,"y":243,"w":52,"h":53},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":53,"y":17,"w":52,"h":53},
 			"sourceSize": {"w":126,"h":71}
 		},
 		"fight_100_29.png":
 		{
-			"frame": {"x":89,"y":243,"w":37,"h":53},
+			"frame": {"x":52,"y":243,"w":37,"h":53},
 			"rotated": false,
 			"trimmed": true,
 			"spriteSourceSize": {"x":40,"y":16,"w":37,"h":53},
 			"sourceSize": {"w":126,"h":71}
 		},
-		"fight_100_30.png":
+		"fight_100_11.png":
+		{
+			"frame": {"x":89,"y":243,"w":37,"h":53},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":49,"y":16,"w":37,"h":53},
+			"sourceSize": {"w":126,"h":71}
+		},
+		"fight_100_12.png":
 		{
 			"frame": {"x":126,"y":243,"w":36,"h":53},
 			"rotated": false,
 			"trimmed": true,
-			"spriteSourceSize": {"x":41,"y":16,"w":36,"h":53},
+			"spriteSourceSize": {"x":49,"y":16,"w":36,"h":53},
 			"sourceSize": {"w":126,"h":71}
 		},
 		"fight_100_10.png":
@@ -245,7 +245,7 @@
 			"spriteSourceSize": {"x":49,"y":16,"w":36,"h":53},
 			"sourceSize": {"w":126,"h":71}
 		},
-		"fight_100_28.png":
+		"fight_100_30.png":
 		{
 			"frame": {"x":198,"y":243,"w":36,"h":53},
 			"rotated": false,
@@ -253,44 +253,44 @@
 			"spriteSourceSize": {"x":41,"y":16,"w":36,"h":53},
 			"sourceSize": {"w":126,"h":71}
 		},
-		"fight_100_12.png":
+		"fight_100_28.png":
 		{
 			"frame": {"x":234,"y":243,"w":36,"h":53},
 			"rotated": false,
 			"trimmed": true,
-			"spriteSourceSize": {"x":49,"y":16,"w":36,"h":53},
-			"sourceSize": {"w":126,"h":71}
-		},
-		"fight_100_31.png":
-		{
-			"frame": {"x":270,"y":243,"w":35,"h":53},
-			"rotated": false,
-			"trimmed": true,
-			"spriteSourceSize": {"x":41,"y":16,"w":35,"h":53},
+			"spriteSourceSize": {"x":41,"y":16,"w":36,"h":53},
 			"sourceSize": {"w":126,"h":71}
 		},
 		"fight_100_13.png":
 		{
-			"frame": {"x":305,"y":243,"w":35,"h":53},
+			"frame": {"x":270,"y":243,"w":35,"h":53},
 			"rotated": false,
 			"trimmed": true,
 			"spriteSourceSize": {"x":50,"y":16,"w":35,"h":53},
 			"sourceSize": {"w":126,"h":71}
 		},
-		"fight_100_9.png":
+		"fight_100_31.png":
 		{
-			"frame": {"x":182,"y":123,"w":27,"h":53},
+			"frame": {"x":305,"y":243,"w":35,"h":53},
 			"rotated": false,
 			"trimmed": true,
-			"spriteSourceSize": {"x":49,"y":16,"w":27,"h":53},
+			"spriteSourceSize": {"x":41,"y":16,"w":35,"h":53},
 			"sourceSize": {"w":126,"h":71}
 		},
 		"fight_100_27.png":
 		{
-			"frame": {"x":342,"y":0,"w":27,"h":53},
+			"frame": {"x":182,"y":123,"w":27,"h":53},
 			"rotated": false,
 			"trimmed": true,
 			"spriteSourceSize": {"x":50,"y":16,"w":27,"h":53},
+			"sourceSize": {"w":126,"h":71}
+		},
+		"fight_100_9.png":
+		{
+			"frame": {"x":342,"y":0,"w":27,"h":53},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":49,"y":16,"w":27,"h":53},
 			"sourceSize": {"w":126,"h":71}
 		}
 	}

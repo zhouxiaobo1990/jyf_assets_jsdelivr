@@ -5,7 +5,7 @@
 		"scale": "1"
 	},
 	"frames": {
-		"eft_81_10.png":
+		"eft_81_11.png":
 		{
 			"frame": {"x":0,"y":0,"w":200,"h":200},
 			"rotated": false,
@@ -13,7 +13,7 @@
 			"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
 			"sourceSize": {"w":200,"h":200}
 		},
-		"eft_81_11.png":
+		"eft_81_10.png":
 		{
 			"frame": {"x":200,"y":0,"w":200,"h":200},
 			"rotated": false,
@@ -45,7 +45,7 @@
 			"spriteSourceSize": {"x":16,"y":1,"w":184,"h":199},
 			"sourceSize": {"w":200,"h":200}
 		},
-		"eft_81_2.png":
+		"eft_81_1.png":
 		{
 			"frame": {"x":584,"y":0,"w":198,"h":197},
 			"rotated": false,
@@ -53,7 +53,7 @@
 			"spriteSourceSize": {"x":1,"y":1,"w":198,"h":197},
 			"sourceSize": {"w":200,"h":200}
 		},
-		"eft_81_1.png":
+		"eft_81_2.png":
 		{
 			"frame": {"x":584,"y":197,"w":198,"h":197},
 			"rotated": false,
